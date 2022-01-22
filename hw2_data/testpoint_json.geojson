@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "testpoint_json",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "Point", "coordinates": [ -78.587552090279061, 35.784631940364761 ] } }
-]
-}
